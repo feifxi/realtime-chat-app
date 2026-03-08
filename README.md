@@ -92,6 +92,3 @@ For easy and free deployment of this chat application, I recommend using **Rende
 - ✅ Automatic deployments
 - ✅ Built-in SSL certificates
 - ✅ Perfect for student projects like this one
-
----
-*Built for fun ❤️*
